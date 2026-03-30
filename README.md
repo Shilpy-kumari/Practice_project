@@ -1,2 +1,2 @@
 # Practice_project
-This if for learning purpose
+This if for learning purpose.
